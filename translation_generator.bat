@@ -1,0 +1,1 @@
+dart run easy_localization:generate --source-dir assets/translations --output-dir lib/core/localization --format json && dart run easy_localization:generate --source-dir assets/translations --output-dir lib/core/constants --output-file locale_keys.g.dart --format keys

@@ -1,0 +1,3 @@
+class CourseCache {
+  List courses = [];
+}
