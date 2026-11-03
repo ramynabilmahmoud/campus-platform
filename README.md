@@ -5,7 +5,7 @@
 ![State](https://img.shields.io/badge/state-Bloc-1E88E5)
 
 > One app for campus events, courses and student information, built with **Clean Architecture** and **Bloc**.
-> Team graduation project at NCTU. I was the lead Flutter developer.
+> Team project at NCTU. I was the lead Flutter developer.
 
 ## ✨ Features
 - **Authentication**: multi-step sign-up, JWT tokens kept in secure storage, protected routes with route guards
